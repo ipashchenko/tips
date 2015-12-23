@@ -1,3 +1,6 @@
+import types
+
+
 # Define new method
 def new_method(self, *args, **kwargs):
     pass
